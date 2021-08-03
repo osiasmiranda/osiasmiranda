@@ -1,5 +1,4 @@
 ### Olá Eu sou Osias Miranda 👋
-
  <div style="display: flex">
   <a href="https://github.com/osiasmiranda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osiasmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
