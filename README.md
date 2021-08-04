@@ -1,10 +1,10 @@
 ### Olá Eu sou [Osias Miranda🐱‍🚀](https://osiasmiranda.github.io)
-<div>
+<div style="display: inline">
   <a href="https://github.com/osiasmiranda">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=osiasmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/osiasmiranda">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiasmiranda&layout=compact&langs_count=4&theme=dracula"/> 
+  <img  height="180em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiasmiranda&layout=compact&langs_count=4&theme=dracula"/> 
   </a>
 </div>
  
