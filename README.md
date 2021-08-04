@@ -1,5 +1,5 @@
 ### Olá Eu sou [Osias Miranda🐱‍🚀](https://osiasmiranda.github.io)
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/osiasmiranda">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=osiasmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -22,6 +22,7 @@
  </div>
  
   ## 
+  
 <div>   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
